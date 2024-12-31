@@ -7,5 +7,5 @@ data = {
          'Status': ['Completed','Inprogress','Pending']
     }
 df = pd.DataFrame(data)
-st.write('ETL pipline execution status')
+st.write('ETL pipline execution status1')
 st.write(df)
